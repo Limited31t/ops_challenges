@@ -5,4 +5,4 @@
 - [Ops challenge 5](loops.sh)
 - [Ops challenge 6](ops_challenge_6.sh)
 - [Ops challenge 7](ops_challenge_7.sh)
-- [Ops challenge 8](ops_challenges_8.sh)
+- [Ops challenge 8](ops_challenge_08.sh)
