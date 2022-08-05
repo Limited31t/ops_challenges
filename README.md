@@ -6,3 +6,4 @@
 - [Ops challenge 6](ops_challenge_6.sh)
 - [Ops challenge 7](ops_challenge_7.sh)
 - [Ops challenge 8](ops_challenge_08.sh)
+- [Ops challenge 8](ops_challenge_09.sh)
