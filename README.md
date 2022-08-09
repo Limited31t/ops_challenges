@@ -8,3 +8,4 @@
 - [Ops challenge 8](ops_challenge_08.sh)
 - [Ops challenge 9](ops_challenge_09.sh)
 - [Ops challenge 11](ops_challenge_11.sh)
+- [Ops challenge 10](ops_challenge_10.sh)
