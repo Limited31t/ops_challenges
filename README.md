@@ -9,3 +9,4 @@
 - [Ops challenge 9](ops_challenge_09.sh)
 - [Ops challenge 10](ops_challenge_10.ps1)
 - [Ops challenge 11](ops_challenge_11.ps1)
+- [Ops challenge 12](ops_challenge_12.ps1)
