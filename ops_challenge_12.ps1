@@ -20,7 +20,7 @@ function Report {
 # Calls on the function to run
 Report
 
-# String that tells user that the IPv4 was printed and that the text file was deleted
+# This string that tells user that the IPv4 address was printed and that the text file was deleted
 echo "Printed IPv4 Address. Deleted the created text file."
 
 # End
