@@ -5,12 +5,6 @@
 # Author Gary King
 # Last edited date 09/27/2022
 
-# Using 
-
-#!/usr/bin/python3
-# Script: Ops 301 Class 12 Ops Challenge Solution
-# Author: Graceson Langston
-# Date of latest revision:09/27/22
 # Purpose: Psutil fetches the following information:
     # Time spent by normal processes executing in user mode
     # Time spent by processes executing in kernel mode
